@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="superhero_name">Superhero Name</string>
+    <string name="superhero_description">Superhero Description</string>
+    <string name="apa_itu_anemia">Apa itu anemia?</string>
+    <string name="deskripsi_apa_itu_anemia">Anemia merupakan kondisi medis yang terjadi ketika jumlah sel darah merah dalam tubuh lebih rendah dari jumlah normal.</string>
+</resources>
